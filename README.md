@@ -24,7 +24,7 @@ Options:
 - `--superhide`: Efficiently hide FILE2 within FILE1 (overrides FILE1!)
  
 When using `reveal` or `superreveal` on `coffee.bmp`, a hidden image will appear!
-<img src="/Project1/coffee.bmp" alt="coffee" style="width: 50%; height: auto;" />
+<img src="/coffee.bmp" alt="coffee" style="width: 50%; height: auto;" />
   
 ## Implementation Details
 
