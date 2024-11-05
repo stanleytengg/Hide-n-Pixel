@@ -1,0 +1,23 @@
+# Ignore object files
+*.o
+
+# Ignore the compiled executable 
+bmp_steganography
+
+# Ignore common editor backup files
+*~
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore any files in a build directory
+build/
+
+# Ignore any files in a bin directory
+bin/
+
+# Ignore any files in a obj directory
+obj/
